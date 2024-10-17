@@ -30,6 +30,6 @@ jobs:
         with:
           branch: gh-pages
           clean: false
-          commit-message: New update: ${{ github.sha }}
+          commit-message: New update ${{ github.sha }}
           folder: public
 
