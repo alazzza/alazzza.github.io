@@ -14,6 +14,8 @@
 #+ATTR_HTML: :class sortable
 | Page | Title                | Date posted |
 |------+----------------------+-------------|
+| [[file:./001.org][001]]  | [[file:./001.org::#org17a46a1][Tympanoplasty]] |  2024-10-17 |
+| [[file:./001.org][001]]  | [[file:./001.org::#org0843f87][Thyroidectomy]] |  2024-10-15 |
 
 #+BEGIN_EXPORT html
 <script src="https://alazzza.github.io/assets/js/sortTable.js"></script>
