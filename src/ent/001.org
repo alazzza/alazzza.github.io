@@ -83,6 +83,7 @@ Now, let's talk about how to place these grafts:
 - https://www.ncbi.nlm.nih.gov/books/NBK565863/
 - Cummings Otolaryngology (the OG... Otolaryngology God)
 - Kadasne's anatomy textbook
+- https://otosurgeryatlas.stanford.edu/
 
 * Thyroidectomy
 :PROPERTIES:
