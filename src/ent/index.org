@@ -1,0 +1,20 @@
+#+TITLE: ENT
+
+[[https://github.com/alazzza/alazzza.github.io/edit/main/src/ent/index.org][Edit]]
+
+[[file:../index.org][Home]]
+
+-----
+
+* Topic list
+:PROPERTIES:
+:CUSTOM_ID: enttopics
+:END:
+
+#+ATTR_HTML: :class sortable
+| Page | Title                | Date posted |
+|------+----------------------+-------------|
+
+#+BEGIN_EXPORT html
+<script src="https://alazzza.github.io/assets/js/sortTable.js"></script>
+#+END_EXPORT
