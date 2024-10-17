@@ -32,4 +32,3 @@ jobs:
           clean: false
           commit-message: New update ${{ github.sha }}
           folder: public
-
