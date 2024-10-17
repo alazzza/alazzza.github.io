@@ -1,0 +1,211 @@
+#+TITLE: ENT 001
+
+[[https://github.com/alazzza/alazzza.github.io/edit/main/src/ent/001.org][Edit]]
+
+[[file:../index.org][Home]]
+
+[[file:./002.org][Next page >>]]
+
+-----
+
+#+TOC: headlines 2
+
+* Tympanoplasty
+:PROPERTIES:
+:CUSTOM_ID: org17a46a1
+:END:
+
+Tympanoplasty is the surgery of the tympanic membrane. The whole point of it is to achieve the following:
+1. Middle ear function restoration. To achieve this, there must be a secure connection between an intact tympanic membrane and the inner ear fluids.
+2. Ensuring a durable connection between the tympanic membrane and the inner ear.
+3. Establishing a tympanic membrane that resists infection and epithelial growth.
+
+** Anatomy
+:PROPERTIES:
+:CUSTOM_ID: orgbc15077
+:END:
+
+Ok, but what on earth is the tympanic membrane (TM)?
+- Oval-shaped fibrous membrane.
+- Covered with skin on the outside and a mucous membrane on the inside.
+- Something which you must know about the TM is that is positioned at an angle of 55 degrees with the ear canal floor (laterally forward and downward!). Confused? I thought so. Just look at this beautiful coronal schematic [[https://drive.google.com/uc?export=view&id=1gyBfhMTClIKj38025z_0TDIqaqYtVKKZ][picture]]. Note the concavity on the outside and the convexity on the inside (where the malleus handle tip is attached, forming the umboooooooo). I think this can be better appreciated in this [[https://drive.google.com/uc?export=view&id=1h-mllQRI7GPQi2JcuqzE4JpTHIXk4aGj][picture]].
+- There is something called pars flaccida. This is a flaccid (as the name indicates) area between malleolar folds. It's fairly prone to rupture and perforation. And, on the opposite end of the spectrum, the pars tensa (the tense part lol).
+- For your sanity, please look at a [[https://drive.google.com/uc?export=view&id=15jMEm8s8cuqQ2J_3LtZbHmimis3TOvgy][picture]] showing the position of the chorda tympani in relation to the malleus and the incus.
+
+That's pretty much all you need to know...
+
+** Surgery
+:PROPERTIES:
+:CUSTOM_ID: org98272f2
+:END:
+
+Interestingly, although you're aspiring surgeon with an itch to stick a knife into things, you may not need to operate in the following scenarios:
+- Central perforations without significant deafness
+- If the patient has a chronic eustachian tube dysfunction, you would NOT need to repair the perforation... know why? Because the perforation can actually help equalize pressure.
+
+Before we dive into the steps of the surgery, here are a few points about the grafts:
+- Temporalis fascia
+  - This is the commonly used material for repairing TMs, and has been used for over 60 years!
+  - It is taken through a small hole above the ear, either posterosuperior to the helix or via superior dissection from a [[https://otosurgeryatlas.stanford.edu/otologic-surgery-atlas/fundamentals-of-ear-surgery/postauricular-incision/][postauricular incision]] or an [[https://otosurgeryatlas.stanford.edu/otologic-surgery-atlas/fundamentals-of-ear-surgery/endaural-incision/][endaural incision (incision within the ear canal)]].
+- Fat
+  - This is useful for small perforations.
+- Perichondrium
+  - If the temporalis fascia is unavailable (for example, because of so many revisions), this is the alternative.
+
+Now, let's talk about how to place these grafts:
+- To start with, there are two main techniques: lateral and medial.
+- Lateral Graft Technique (aka overlay technique). In summary, the graft is placed lateral (on top) to the TM but medial to the malleus handle. Please refer to this [[https://drive.google.com/uc?export=view&id=1h-mllQRI7GPQi2JcuqzE4JpTHIXk4aGj][picture]] as I found it to be extremely helpful in understanding what is happening.
+  - Start by making a postauricular incision.
+  - Elevate the vascular strip as shown in this [[https://drive.google.com/uc?export=view&id=199tuGobJfBulpMNzY2T1HOnJpWU9n10n][picture]].
+  - Right now, the ear canal should look something like shown in this [[https://drive.google.com/uc?export=view&id=1mGZdz7r5k3odIXoqyjkuIzH-4ACIkO_C][picture]].
+  - What you need to do next is remove the squamous layer that is overlying the outside of the TM like shown in this [[https://drive.google.com/uc?export=view&id=1TnMcOTzHorhZ99lO5udLfwoJwsq-U7KE][picture]].
+  - Then, put the graft over the middle fibrous layer that is shown in this [[https://drive.google.com/uc?export=view&id=1h-mllQRI7GPQi2JcuqzE4JpTHIXk4aGj][picture]]. So, the result will look something like [[https://drive.google.com/uc?export=view&id=1oq1bI_7I-YRTsUvTbVNoYuo0DDm4H6yW][this]]. What is done here is basically this: lift the umboooooo using some kind of a hook (called wire loop), and then shove the graft underneath the umbo so that the umbo acts like a paper clip (see this [[https://drive.google.com/uc?export=view&id=1OijCFeniZAZUz8fHjrqxuZCiHS9IrFFO][picture]]).
+  - Now, put a free graft on top of the TM graft, and pack that bad boy tightly to reduce blunting and lateralisation. See this [[https://drive.google.com/uc?export=view&id=1lvDEU9J3y4eYKbEhUomnqG42uGw0KEBi][picture]].
+  - [[https://drive.google.com/uc?export=view&id=1uCjBCBop_35Hy6kSbbsw6cgfGklOWLsD][Ahh, nice and warm]].
+- Medial graft technique (aka underlay technique). In summary, the graft is placed medial (underneath) to the TM and malleus.
+  - This one felt a bit more complex, and so I won't go into detail. But, here is the basic outline.
+  - You can incise using 1 of 3 ways: transcanal, endaural, or postauricular.
+  - After incision, raise the tympanomeatal flap.
+  - Now, life the medially-based anterior canal skin flap over the canal bulge down to the annulus (the ring of tissue around the eardrum), leaving the annulus intact. Look at this [[https://drive.google.com/uc?export=view&id=19NPBT23HNq-54i_tffrOz6neRa4epgeh][picture]].
+  - Next, you need to prepare the middle ear. To do so, remove the mucocutaneous junction at the edges of the perforation (like in this [[https://drive.google.com/uc?export=view&id=1-cUtm-FPe_HmbDKUlyXTqIILyngWkcTY][picture]]). The result would look something like [[https://drive.google.com/uc?export=view&id=1NGYc9GeOEMysed-ZJswgPJHJa5wdJbjQ][this]]. The point of this step is to enhance the adhesion and the vascularisation of the graft.
+  - Now, poke a hole through the graft. Then, pass the umbo through that hole, like shown in this [[https://drive.google.com/uc?export=view&id=1yCzHS4UFCT6XiVzQL4F_YIGXyHtl23UR][picture]]. An alternative way is to just pass the graft underneath the TM like shown in [[https://drive.google.com/uc?export=view&id=1sQZe-iaP6L_wnoFgjIhQ7sxVzgf2yw4T][here]].
+  - return the tympanomeatal flap to its original position.
+  - Put the Gelfoam to hold it in place and promote healing.
+
+** Resources
+:PROPERTIES:
+:CUSTOM_ID: orgee0d7da
+:END:
+
+- https://vula.uct.ac.za
+- https://www.ncbi.nlm.nih.gov/books/NBK565863/
+- Cummings Otolaryngology (the OG... Otolaryngology God)
+- Kadasne's anatomy textbook
+
+* Thyroidectomy
+:PROPERTIES:
+:CUSTOM_ID: org0843f87
+:END:
+
+Interesting topic that lives at the +throat+ heart of ENT surgery.
+
+** Anatomy
+:PROPERTIES:
+:CUSTOM_ID: org9161c02
+:END:
+
+*** Overview
+:PROPERTIES:
+:CUSTOM_ID: org7527087
+:END:
+
+In the neck, there are two types of fascia:
+1. Superficial cervical fascia
+2. Deep cervical fascia
+
+The superficial cervical fascia:
+- This is a layer of fatty connective tissue that is found between the skin and the deep cervical fascia.
+- It has cutaneous nerves, blood and lymphatic vessels.
+
+The deep cervical fascia:
+- This one is divided into 3 more layers:
+  1. Investing Layer:
+     - Envelopes the trapezius and sternocleidomastoid muscles
+  2. Pretracheal Layer
+     - Extends from hyoid bone into the thorax.
+     - Has a muscular part and a visceral part (the visceral part will be important later... obviously! Hint: it forms part of the thyroid false capsule)
+  3. Prevertebral Layer
+     - Envelopes the vertebral column.
+
+The thyroid gland is found in the cervical viscera, which is organised into 3 layers (from deepest to most superficial):
+1. Alimentary: has the pharynx and oesophagus.
+2. Respiratory: has the larynx and trachea.
+3. Endocrine: has the thyroid and parathyroid glands.
+
+We cool so far? Nice. Let's talk about the thyroid gland itself. But, before we do, take a look at this [[https://drive.google.com/uc?export=view&id=1ksaAjq7jhoxkP2Ukpcs2xilkCAWmf-9Q][picture]] to get some orientation.
+
+The interesting thing about the thyroid gland is that it has 2 capsules... well, kinda:
+1. False capsule:
+   - Pretracheal fascia of the deep cervical layer (we talked about it above) forms a loose sheath
+2. True capsule:
+   - This is a thin fibrous capsule which is formed from the fibrous stroma of the gland...
+   - /*Deep to it, is the deep venous plexus of the gland. This is why, in order to avoid bleeding, the thyroid gland is removed along with the true capsule. [[https://drive.google.com/uc?export=view&id=1nuORCO5enazBzCDwcPgIIC7RUEzDZBPm][Picture]].*/
+
+Now you know a little bit about the fascia of the neck, here is a clinical pearl to remember. The thyroid capsule is attached to the hyoid bone and the laryngeal cartilages (which move with swallowing). The fibrous attachment to the hyoid bone is called *levator glandulae thyroideae*. This is why the thyroid swellings move when you ask the patient to swallow! Pretty neat, huh? See this [[https://drive.google.com/uc?export=view&id=1ksaAjq7jhoxkP2Ukpcs2xilkCAWmf-9Q][picture]].
+
+*** Relations
+:PROPERTIES:
+:CUSTOM_ID: org9bb8085
+:END:
+
+The following are some important relations which you should keep in mind when you're poking your finger in there (see this [[https://drive.google.com/uc?export=view&id=1KJFyzJYpWLX2atlt6JqkuXe8Doxj9Tv1][picture]]):
+- Medial surface: a rule of 2s.
+  - 2 tubes: trachea and oesophagus
+  - 2 cartilages: cricoid and thyroid
+  - 2 muscles: cricothyroid and inferior constrictor
+  - 2 nerves: external laryngeal and recurrent laryngeal
+- Lateral surface: three strap muscles (sternothyroid, sternohyoid, superior belly of omohyoid). Aid to remember the strap muscles: imagine a round guy with a big belly that has been sandwiched by 2 sternums... a gruesome image, but now you will never forget it.
+- Base: this is at the level of 5th tracheal ring. The inferior thyroid artery and recurrent laryngeal nerve can be found here.
+- Posterolateral surface: carotid sheath!!!!!!!!!!!!!!!!!!! DANGER!!!!!!!
+
+*** Supply
+:PROPERTIES:
+:CUSTOM_ID: org6bbfc5c
+:END:
+
+Arterial ([[https://drive.google.com/uc?export=view&id=1lDWtlTTsdpTyWbs1LbHUHOxQLmyBjVTp][picture]]):
+- Superior thyroid artery: branch of external carotid artery
+- Inferior thyroid artery: branch of thyrocervical trunks (which branch of subclavian artery, which in turn comes from the... brachiocephalic artery, which comes froooom... aortic arch! Well remembered.)
+
+Venous ([[https://drive.google.com/uc?export=view&id=1CrYooiS4Q2AI2bXQKffmk4wIg2ImqYK8][picture]]):
+- Better to just see the picture above instead of reading a wall of text talking about some supero-infero-lateral-postero relation of some nerve.
+
+Nerves:
+- Sympathetic: superior, middle, and inferior cervical sympathetic ganglia.
+- Parasympathetic: vagus and recurrent laryngeal nerves
+
+** Surgery
+:PROPERTIES:
+:CUSTOM_ID: org9ed2ef7
+:END:
+
+Ooooh now for the VERY interesting part. DISCLAIMER: This section is yet to be reviewed by a surgeon. So, do NOT rely on it!
+
+Also, do not try this at home...
+
+1. Put the patient flat on the bed and extend the neck.
+2. Clean the neck from the chest to the mandible.
+3. Make a symmetric transverse incision near the cricoid cartilage.
+4. Subplatysmal flap should now be raised so that you can see the thyroid.
+5. What you should now see is the deep cervical fascia. You see it? Yes? Cool. Now, make a midline vertical incision through it and separate the strap muscles
+6. Optional: good point to name the strap muscles and impress the surgeon.
+7. You need to identify something called ansa cervicalis, and you need to be EXTREMELY careful so that you do not damage the external branch of the superior laryngeal nerve (which is a part of the vagus, and it supplies the cricothyroid muscle whose job is to increase the vocal pitch by tensing the vocal cords... pretty important if you ask me)
+8. Find the middle thyroid vein and the recurrent laryngeal nerve (innervates all of the intrinsic muscles of the larynx, other than the cricothyroid)
+9. To do the above, you need to first find the superior pole of the thyroid: pull the thyroid inferomedially and find a triangle known as Joll's triangle. See this [[https://drive.google.com/uc?export=view&id=1QPgTeg4abu8S4Tu4vI_I-vHTssGpCFk7][picture]] to give some context.
+10. Next, you need to find the recurrent laryngeal nerve which runs like [[https://drive.google.com/uc?export=view&id=1R_UcKHn5eQb6DvuIq54Bvh7c5K9pD0Dk][this]].
+11. To reduce the risk of parathyroid devascularisation, blood vessels on the thyroid capsule should be divided and ligated.
+12. Keep monitoring the recurrent laryngeal nerve.
+13. When you have achieved the above, you can cut the thyroid
+    - Lobectomy: remove lobe and leave behind the isthmus and the other lobe
+    - Hemithyroidectomy: remove a lobe PLUS isthmus
+    - Total thyroidectomy: fully remove the gland
+    - Near-total thyroidectomy: remove all of the thyroid and keep 2 grams of glandular tissue
+    - Subtotal thyroidectomy: remove all of the thyroid and leave about 7 grams of glandular tissue (this technique is used for multinodular goiters)
+14. Reapproximate strap muscles to stop the trachea from adhesing to the skin...
+15. Reapproximate the platysma.
+16. Close it up.
+17. Go home.
+18. Wait no, go back and write the operation notes.
+19. Ok. Now seriously go home. It's 2 AM...
+
+Post-op care:
+- Keep an eye out for hypocalcemia (especially in total thyroidectomy cases).
+
+** Resources
+:PROPERTIES:
+:CUSTOM_ID: org9e6d22b
+:END:
+
+- https://doi.org/10.1155/2017%2F4357591
+- Kadasne's anatomy textbook
+- Bailey and Love's textbook of surgery
