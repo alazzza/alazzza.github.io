@@ -1,6 +1,6 @@
 html {
 	background-color: #1a1616;
-	padding: 1em 0em 1em 10em;
+	padding: 1em;
 }
 
 body {
@@ -9,6 +9,7 @@ body {
 	line-height: 1.5;
 	word-wrap: break-word;
 	padding: 1em;
+	margin: 0 auto;
 	max-width: 70ch;
 	font-size: 1.2em;
 }
